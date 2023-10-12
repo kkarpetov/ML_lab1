@@ -1,0 +1,48 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435596251,
+            "classId": 11917569,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T13:25:27.973Z",
+            "updatedAt": "2023-10-11T13:25:50.091Z",
+            "tags": [],
+            "classTitle": "fox",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        15
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1435596330,
+            "classId": 11917569,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T13:26:52.694Z",
+            "updatedAt": "2023-10-11T13:27:09.533Z",
+            "tags": [],
+            "classTitle": "fox",
+            "bitmap": {
+                "data": "eJwBWgGl/olQTkcNChoKAAAADUlIRFIAAAA4AAAAOgEDAAAA34AIVgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAECSURBVHicXdCxTsMwEAbgn6bg0Sub36QZKsFzIF4gSIxRnKoDI4+EJxh5BIIYuoZOkWp8/HeuGPDy6c4X5fxDJEGPuVbHgBv1IKdX9UPkNFI9rH/UdK4nyMuBHvEue1rgpLFBV5zVq3x28dZfTVXAWx94FvEZaz96Qeb3dNzQ5CWpc5DUcnpuZTLjWeEV/fznjur93nTC/8yRBpFvgS9/lkaVkKt+ufhSd2jMBPemTvBPfA93Ddzwlo/fhIItvW4L7hkYYsadKhkP7Dey4FG3oYPlNGOINa++rQ6h5thbHCN6V2PpNL5MNeFFjTqOrvM6huW4tdTigDZdJsQrFi4xOTu/6PID51Wv6hkAAAAASUVORK5CYIKBrJq/",
+                "origin": [
+                    2,
+                    3
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435600133,
+            "classId": 11917555,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T13:31:49.339Z",
+            "updatedAt": "2023-10-11T13:31:49.339Z",
+            "tags": [],
+            "classTitle": "opera",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK6QKzHyAwk2xyYyoEUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOXWeLo4hFXOmXtjI22DAw3KgX0Nj5UoJ1cUGTMoHMiRVlQOCFOZt9xVUDJygFH6jbw67kHZJ1bxjLlLakSyZR1XKFgi3m16KYi9kXLygf6J0kfNBoTNf0uXeXMu+L2MfIf1NfOfCY038R6eL1665bXpk+fqOA0In/2VKr5k36fkkJdWUqXmM7efnf1BbFQV0CYOnq5/LOqeEJgBZ+Exd",
+                "origin": [
+                    8,
+                    11
+                ]
+            }
+        }
+    ]
+}

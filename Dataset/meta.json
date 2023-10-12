@@ -1,0 +1,96 @@
+{
+    "classes": [
+        {
+            "title": "opera",
+            "shape": "any",
+            "color": "#821C2C",
+            "geometry_config": {},
+            "id": 11917555,
+            "hotkey": ""
+        },
+        {
+            "title": "yandex",
+            "shape": "any",
+            "color": "#13C37A",
+            "geometry_config": {},
+            "id": 11917564,
+            "hotkey": ""
+        },
+        {
+            "title": "brave",
+            "shape": "any",
+            "color": "#50CEDC",
+            "geometry_config": {},
+            "id": 11917559,
+            "hotkey": ""
+        },
+        {
+            "title": "tor",
+            "shape": "any",
+            "color": "#B109D3",
+            "geometry_config": {},
+            "id": 11917568,
+            "hotkey": ""
+        },
+        {
+            "title": "safari",
+            "shape": "any",
+            "color": "#859CD1",
+            "geometry_config": {},
+            "id": 11917561,
+            "hotkey": ""
+        },
+        {
+            "title": "edge",
+            "shape": "any",
+            "color": "#A902AC",
+            "geometry_config": {},
+            "id": 11917565,
+            "hotkey": ""
+        },
+        {
+            "title": "vivaldi",
+            "shape": "any",
+            "color": "#FF14A5",
+            "geometry_config": {},
+            "id": 11917563,
+            "hotkey": ""
+        },
+        {
+            "title": "google",
+            "shape": "any",
+            "color": "#2121ED",
+            "geometry_config": {},
+            "id": 11917566,
+            "hotkey": ""
+        },
+        {
+            "title": "uc",
+            "shape": "any",
+            "color": "#467CC3",
+            "geometry_config": {},
+            "id": 11917567,
+            "hotkey": ""
+        },
+        {
+            "title": "fox",
+            "shape": "any",
+            "color": "#DB2A0F",
+            "geometry_config": {},
+            "id": 11917569,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "brave",
+            "value_type": "none",
+            "color": "#9DE963",
+            "id": 32591408,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

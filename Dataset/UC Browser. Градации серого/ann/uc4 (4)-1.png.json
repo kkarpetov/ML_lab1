@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435626295,
+            "classId": 11917567,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T13:56:22.680Z",
+            "updatedAt": "2023-10-11T13:56:22.680Z",
+            "tags": [],
+            "classTitle": "uc",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKWIMzIDCS3XRM8BqTYAnxCXIH0////l96cfxfIYiwJ8gtmcHh2Iw3IqfV0cQypmLP04kHeBgUe1gtSfDKSjYEyvm7JwrKNi9mdW6fNl5Dae6J1+gQz3fkaBicLz0hqNH04oBohbaMdcSGvb++GZPYlBYe+dl5VkLBgvsXzYcse59PaF659EL4kfkj+Qk9WQrl9YxMnP8/8jeGH3pnULe47YLJrRe6WiUtemb6X9u6wX5NdonAJ6BAGT1c/l3VOCU0As7xPFw==",
+                "origin": [
+                    1,
+                    3
+                ]
+            }
+        }
+    ]
+}

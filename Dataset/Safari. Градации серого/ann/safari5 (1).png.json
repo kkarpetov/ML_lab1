@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435622856,
+            "classId": 11917561,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T13:43:17.890Z",
+            "updatedAt": "2023-10-11T13:43:17.890Z",
+            "tags": [],
+            "classTitle": "safari",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI6QKzLyAwk34tJPwdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5GR5ujiGVMyZe2Ej7wEFHpYD/UEBRkyLDaR6jmn0OMxkepqcPGGSUpfIrMmtvV8ZOCSLzMqOToxS28Ql88bJeFdhn5tQh1ddgNjLqbs4tq96uSv+zMcfR++E8xyIFsk/OKex06ZK4qyGxMOv0x88fcUkcfmkcaOF+k2grQyern4u65wSmgBke0ew",
+                "origin": [
+                    10,
+                    10
+                ]
+            }
+        }
+    ]
+}

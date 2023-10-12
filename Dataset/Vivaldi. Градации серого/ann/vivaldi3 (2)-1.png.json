@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435672765,
+            "classId": 11917563,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T16:33:24.275Z",
+            "updatedAt": "2023-10-11T16:33:24.275Z",
+            "tags": [],
+            "classTitle": "vivaldi",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJGQGzAyAwkMy13/wRSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5JR5ujiGVMxZeuEgb4MCD+sFIX4ZycZACV+3ZBG3Dy8OfnirLzF19sTT3h63t8S7hL1ZdJ6R/avDYkEG3yyxaYyuoQFrZW64iO2Kns3LseVrGZ+H/ubenbrzj/pfTpnxRf/zkx2b737fVfh/artulHyl65c/j05c/W7EtvK+usntn5s7dBmWAV3A4Onq57LOKaEJAIDDT9w=",
+                "origin": [
+                    6,
+                    7
+                ]
+            }
+        }
+    ]
+}

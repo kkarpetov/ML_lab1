@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435586340,
+            "classId": 11917566,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T12:54:10.632Z",
+            "updatedAt": "2023-10-11T12:54:14.797Z",
+            "tags": [],
+            "classTitle": "google",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKmIMzIDCRvaxgaAym2AJ8QVyD9////pTfn3wWyGEuC/IIZHJ7dSANy2jxdHEMq5vRePMjbYsDD4jC/4sMTqwVTpoh5eWtOOWDMP+Xove7DrIqMQrPYuzvFBWdOOLKu4+wPhqMyjDpJ/QcdAsKPNazRuiG5vDly1Y+9eczLzqkYx85eWJx97Nwfjbhn72z3l9se/7pnX/vr6r7S/Pvz907ZvPxa9IOIhwe+XN/8fd1Bn/Zf8U9Wf2f8EMD/03TyYRGgixg8Xf1c1jklNAEAmbtckg==",
+                "origin": [
+                    5,
+                    7
+                ]
+            }
+        }
+    ]
+}

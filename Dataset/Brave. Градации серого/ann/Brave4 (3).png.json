@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435585368,
+            "classId": 11917559,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T12:38:00.668Z",
+            "updatedAt": "2023-10-11T12:38:09.597Z",
+            "tags": [],
+            "classTitle": "brave",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtL6QGzKyAwkXy9REAJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5PR7ujiGVMzJvWDLddiAh/WBONfbF8pLtr94cWeFe0H/tMUpr19dnHBk1ZrlKhKrDsob/WJkrHjKKeW5al9zR02DuecpnhNHk0TZI08Gcupqd7jcXlW3bP2bTZGzg3fnvN9Uurn00ZT6L6pTf/sd63OQe+LWxmfR2WP2S+FG1Otyo8iEy3N+7omcfY1P8u2EHdsVpRoXTFCv++b/ciaTzExJoNMYPF39XNY5JTQBAOJfXjY=",
+                "origin": [
+                    6,
+                    7
+                ]
+            }
+        }
+    ]
+}

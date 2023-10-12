@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435673681,
+            "classId": 11917564,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T16:39:06.229Z",
+            "updatedAt": "2023-10-11T16:39:06.229Z",
+            "tags": [],
+            "classTitle": "yandex",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKmQGzMyAwSKbykB6TYAnxCXIH0////l96cfxfIYiwJ8gtmcHh2Iw3I6fZ0cQypmFN6cTcvs6IAywXLWAcPzilOmTGZek+9FPYwGN6br1upOtmGs7NRlmGB/g0l/acK8VmK+Q9ips7JUpZfsGmyt+yTaYevfP3YpMj4bu6ck8/XK2v+tM78rRt5WOj7nJPKR/qNXnDs3n9/qlNURO259VI7Jl1+bXzwRWHL3b7MB2bae78v2hp1oKd+QvgexryG73JhvDVuQGcxeLr6uaxzSmgCAHrqWFs=",
+                "origin": [
+                    3,
+                    6
+                ]
+            }
+        }
+    ]
+}

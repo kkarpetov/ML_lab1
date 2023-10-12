@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435623868,
+            "classId": 11917568,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T13:52:03.650Z",
+            "updatedAt": "2023-10-11T13:52:03.650Z",
+            "tags": [],
+            "classTitle": "tor",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtImQOzAyAwk81mP1QMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcjo8XRxDKuasvbhX8LACD2tCkWaQEdNiAym53kAJRdXW/vSXL2+6Fu0sFpy13oHp75IpGybNZ9+wc7182tHUN1ti9uVb5UfujzF6ZbBbJs+ZZZb3o5LJsXyWT/8p+ukKPpxcJs+sWxIT5rnmav3tL3WX/4eWHv2/j29D4bX02g33TpY2TW7/df6SUfKClTe+Mv7N5Cpr61QRALqJwdPVz2WdU0ITAEy9WEI=",
+                "origin": [
+                    9,
+                    0
+                ]
+            }
+        }
+    ]
+}

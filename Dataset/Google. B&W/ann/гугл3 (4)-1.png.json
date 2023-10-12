@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435586270,
+            "classId": 11917566,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T12:53:00.208Z",
+            "updatedAt": "2023-10-11T12:53:08.018Z",
+            "tags": [],
+            "classTitle": "google",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtL6IMzIDCQ9XzK+B1JsAT4hrkD6////S2/OvwtkMZYE+QUzODy7kQbktHi6OIZUzOm9sJv3sAEPS4CVXsgu3gmHFlewrH/g++KiSZdbwEunCzOX9ysu4VjUxM/EIWQjWCl7aHv6NU4LXnaWZNZFGxlPBihM53NIUVOXZoyv773wc0LETouWZKlfzGG3v9hbfbDNian+uKBd47TDih91EdabZe8qR2wyEph+xXhti9Dd25t2MRosubDDNdiTlwHkbFc/l3VOCU0AhyxPYQ==",
+                "origin": [
+                    9,
+                    8
+                ]
+            }
+        },
+        {
+            "id": 1435586249,
+            "classId": 11917566,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T12:52:39.861Z",
+            "updatedAt": "2023-10-11T12:52:59.322Z",
+            "tags": [],
+            "classTitle": "google",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKqQCzHyAwkJ7511QNSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5BR6ujiGVMzJPavI1+LA0/pwv0PZRA+VppS3HiruD9W+cMh0Li5gkdE49DpB4LbPPs9Z30R/5K145n2jbE3WARbdJX+yJJIP2egw2918tFRrrsmc/RJ3XdfvbeQzVV5/ytBVfJrnLtM1z7pKm4//nf9L/OnOpc/v8M6cLD5bPTMiFWg5g6ern8s6p4QmABQsTJg=",
+                "origin": [
+                    9,
+                    8
+                ]
+            }
+        }
+    ]
+}

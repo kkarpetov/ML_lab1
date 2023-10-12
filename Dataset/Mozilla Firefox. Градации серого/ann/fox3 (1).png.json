@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435590313,
+            "classId": 11917569,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T13:13:40.102Z",
+            "updatedAt": "2023-10-11T13:13:43.894Z",
+            "tags": [],
+            "classTitle": "fox",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKWQGzKyAwkD4pc3Auk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyJnm6eIYUjFn7sWNvM0GAqwXujU0EpndPmZscHQ7ofXOiC2HQYiX9cPj96cjjwlpXorwv3bzf42YYOFngbDM8ARlKwbri+wKja4WIvx5B6TVDisFxW5MXaF86OpZ0eVpxwzCEy58+N9o3XH1j8tNf7ZvNtGf85vOV0rFuVQVORlOU5WOlVq27cXnk9Znr2yYnPHh7/oo/+yt/SsM2r4y98nq57Y0i/wHupDB09XPZZ1TQhMAthRb7A==",
+                "origin": [
+                    3,
+                    6
+                ]
+            }
+        }
+    ]
+}

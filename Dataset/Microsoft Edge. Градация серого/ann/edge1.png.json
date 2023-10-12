@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 64,
+        "width": 64
+    },
+    "objects": [
+        {
+            "id": 1435586854,
+            "classId": 11917565,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T13:00:21.446Z",
+            "updatedAt": "2023-10-11T13:00:25.272Z",
+            "tags": [],
+            "classTitle": "edge",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKmQGzGyAwkY/c4zwVSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5PR4ujiGVMzpvWjL12zAw/qg3apE2f1E4IO0gi09Mouj3a3cmD5mWes9Wh+6t6ZLyP2kcYPU0nlvpkpbrmxMEVr8Q0DasHuuRTeT+IKgzNwg23dpm8py/0icvX7yWU6AdfTz0LrA78fP7qzfu+v59OPlcv8Fy5aZtk/qfr6lIm/z8xnmO92y9R3V5BvOLn30QDir0bz4lVzbM8PZX4HuYvB09XNZ55TQBAABfVqc",
+                "origin": [
+                    5,
+                    5
+                ]
+            }
+        }
+    ]
+}
