@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 704,
+        "width": 748
+    },
+    "objects": [
+        {
+            "id": 1436009459,
+            "classId": 11917976,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "polinkiya@gmail.com",
+            "createdAt": "2023-10-11T22:00:43.093Z",
+            "updatedAt": "2023-10-11T22:32:46.382Z",
+            "tags": [],
+            "classTitle": "Polina",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        109
+                    ],
+                    [
+                        647,
+                        666
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436009587,
+            "classId": 11917976,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "polinkiya@gmail.com",
+            "createdAt": "2023-10-11T22:06:10.850Z",
+            "updatedAt": "2023-10-11T22:32:46.382Z",
+            "tags": [],
+            "classTitle": "Polina",
+            "bitmap": {
+                "data": "eJwBVQWq+olQTkcNChoKAAAADUlIRFIAAAICAAACNwEDAAAA0zyhkQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAT9SURBVHic7d1LUuMwEAZgU7NgqSPoKDqafDQdRUfQMotUPGCIY8t69ENV7sl074aBD7n7l1yhAp6mQtnlq+6l/wHWn2Wt9PrIx/JbESb4/NM3YFlAwOf26XP+gcPC+ktYltv6b7fsC7WEdRFmORZgEftvedst6LceXeAj/5K8Qk+wPeHGXUK3l90l9FIFWELnMgxAaE/DA4RnVIv1BwI0G2FBQqsRIKDViM/+V69Vb4QDCqEGQMKwVuJeRP0ItVChujU8WKi0EhantSqtNHCh0koHFyqthAOVVCLaUBmGwQjFVjqMUGwlBihucFQbio0wOKHQCIcTConAAQUB2YbCZYDPhqpgscLpMhxbwAKnywAfslUB3chTsA1bsHghO2U8W8AD2ZFPGEUmEEaRtdKwBUsRDq30bIECHFpJGsVBQB9QPxWZwzwIhibsxmnZgmMLni3QgF2kiHHYCcQ47CJFjMNOMFRhi5RlC44teKqwBYIKbAI1Di+BHIcBwjOU5EBtgmEL9kLhuTEcW/BsgQ78CvRIPrcWX6BH8inQI/kUjADBMoTSDzApglfhLYSHCiqooIIKKgDqLkDg3/UkXMXyHkJQYa2kwlrrxuAAbyIsQwTOi2YVtgrvInB+BKLCVon3oyAVpAlGBRVUUKEiWBVGCFEFMUIQIMwqjBMcT5iuFx4C1vAmAj8PKowSggoqCBOiCioMFZIKKgwVbiqoIEy4q6CCCirUBa/CCOGhggoqqCBYWFRQYV+zCsMEJiDkKpwAwbIFI0BgvsvrS2C+62+AELjv4RwicLdWYB+UQwTHFqwAwbAF5saQ8IbaIW9uZsY6cH91YZDg2IJlC0aAwIv1t8ALZWD/3sAYgRfrVfAqqKCCCiqooIIKKvyLwvwtuLcQrAp84RvgvdASI7Be7IkRWC84BQg/f9+F85JVjsB52SxI8FcKdzmCU2Fi3jBucgTzFgLjhpHkCIwbhgQhjhIYtxwJQhglMG5aEoR5mOD/c+EXYNy0JAmWCjwkCeY64T5OIN+0JAjb3+kn33IkCOkpkG8YAwXyYR0HCv4yIWyCIwqzKMEShYkr7B6yYwQIxCPmPlIgHhC3kQLxgOAL6SUQDwi+EHeCv0gIO8FdJMw7wV4k7ADi9h4rkLb34UlipM15HyuQNidfOD5ijyKkg+AFCI4gxINgCUIYLFBiPbOFA0CK9VGghJIt5M+WxQv3TPBoIX+sK15ImWDRQmQLIRMMW8CHMhfwoZwzAR+pKS8scH7csUcKeSTx59z5ScMWKaSTYNgCNhDxJGADEU4CNhDzScCO8wwgx1l6frZFCedAYcdZenQ1bpypIODGGQsCbpyhIOD291wSPEYoAahAlB+nbhFCKQ64QJTigAtEKgqYQMSigBlGKAsOLsxlwcKFMoAYRjkOmGGUh4kZRqoI8GHEmuCgQqgJFirUAHAra6OAH1O1UUzgYyrVBQcTYl0wMCHUBWCm6gCwEeUjDtOIxiiAjWg0EpiI0BJAm2tuCrYP1DO9FmCezVGALiN2BNMVQkfoh6oHdC+j08ipf8ykrtALVewKvUj0gc4i+m2YOhs0QYRmLwNEaEUCdBHNXjZPl1c1ehlhQqOXM1Co7nFgGxqLALahsQjoRUy1ccAvYqpkImEEw7yI8iJ6Z2x/EREnnCeKXMJ0PjGxSzhtD3iaXnU4KFBZ2MpxLmGtj+4C/gL66H9zJJMsGwAAAABJRU5ErkJgghm4OQ0=",
+                "origin": [
+                    113,
+                    92
+                ]
+            }
+        },
+        {
+            "id": 1436025196,
+            "classId": 11918144,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "polinkiya@gmail.com",
+            "createdAt": "2023-10-11T22:32:46.144Z",
+            "updatedAt": "2023-10-11T22:33:16.421Z",
+            "tags": [],
+            "classTitle": "Polina-Key",
+            "nodes": {
+                "10e3f6ef-2c53-44ab-83ff-d498643d7e05": {
+                    "loc": [
+                        432,
+                        343
+                    ]
+                },
+                "9a028889-5666-4d48-8d1b-11db281e4e94": {
+                    "loc": [
+                        430,
+                        463
+                    ]
+                },
+                "ed8ad8b5-de77-4ca1-8114-76e9ba361cea": {
+                    "loc": [
+                        326,
+                        482
+                    ]
+                },
+                "4c8b1ba0-d5ab-4440-8b28-d6a381eb7713": {
+                    "loc": [
+                        506,
+                        484
+                    ]
+                },
+                "26776e2f-bdf8-4b2a-a964-05b2855ca4f4": {
+                    "loc": [
+                        419,
+                        533
+                    ]
+                },
+                "64eace77-c7ba-4fd6-be72-e222cf1c0bbc": {
+                    "loc": [
+                        417,
+                        651
+                    ]
+                },
+                "aa69fb53-9b46-4d54-b530-5b6e0a0c2d3c": {
+                    "loc": [
+                        589,
+                        575
+                    ]
+                },
+                "2a09593a-9a5b-4c5e-b923-d7cdcbfa4ad1": {
+                    "loc": [
+                        205,
+                        576
+                    ]
+                },
+                "f5678daa-79fa-47f4-8b15-9acdf2125b8f": {
+                    "loc": [
+                        295,
+                        306
+                    ]
+                },
+                "bfe94ac4-e5ba-4d6b-af66-77f7420f3317": {
+                    "loc": [
+                        523,
+                        302
+                    ]
+                },
+                "a6a67ef2-ccd8-4ffc-93d3-6c75241a6a88": {
+                    "loc": [
+                        477,
+                        226
+                    ]
+                },
+                "10dd74c8-6d3f-4079-8f69-0a20d0e16ab0": {
+                    "loc": [
+                        547,
+                        224
+                    ]
+                },
+                "e1c6c8b3-4f3a-4e44-91bb-152c3018cd0a": {
+                    "loc": [
+                        313,
+                        227
+                    ]
+                },
+                "53b4f47d-c49e-4328-b373-9842ab2c4c33": {
+                    "loc": [
+                        199,
+                        276
+                    ]
+                },
+                "0880e5f4-7d8b-4fc5-bc6e-27e14c9311ca": {
+                    "loc": [
+                        194,
+                        167
+                    ]
+                },
+                "b72a54f5-c4d2-4160-b954-693c6121483c": {
+                    "loc": [
+                        344,
+                        102
+                    ]
+                },
+                "a67a3437-83b7-46b6-857d-7648e33e38e1": {
+                    "loc": [
+                        529,
+                        131
+                    ]
+                },
+                "a0078693-445a-474d-9ca0-d8fd8c2148e5": {
+                    "loc": [
+                        144,
+                        433
+                    ]
+                },
+                "296041e5-0c53-4661-a8ca-eca15026025a": {
+                    "loc": [
+                        626,
+                        379
+                    ]
+                }
+            }
+        }
+    ]
+}

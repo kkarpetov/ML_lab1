@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 155,
+        "width": 146
+    },
+    "objects": [
+        {
+            "id": 1436009047,
+            "classId": 11917997,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "polinkiya@gmail.com",
+            "createdAt": "2023-10-11T21:49:32.634Z",
+            "updatedAt": "2023-10-11T21:49:32.634Z",
+            "tags": [],
+            "classTitle": "Gwyneth Paltrow",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        31
+                    ],
+                    [
+                        122,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

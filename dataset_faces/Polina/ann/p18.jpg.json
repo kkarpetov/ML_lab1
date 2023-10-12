@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1220,
+        "width": 1092
+    },
+    "objects": [
+        {
+            "id": 1436009445,
+            "classId": 11917976,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "polinkiya@gmail.com",
+            "createdAt": "2023-10-11T22:00:32.970Z",
+            "updatedAt": "2023-10-11T22:30:21.881Z",
+            "tags": [],
+            "classTitle": "Polina",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        109
+                    ],
+                    [
+                        875,
+                        892
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436009580,
+            "classId": 11917976,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "polinkiya@gmail.com",
+            "createdAt": "2023-10-11T22:05:38.207Z",
+            "updatedAt": "2023-10-11T22:30:21.881Z",
+            "tags": [],
+            "classTitle": "Polina",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    281,
+                    188
+                ]
+            }
+        },
+        {
+            "id": 1436025170,
+            "classId": 11918144,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "polinkiya@gmail.com",
+            "createdAt": "2023-10-11T22:30:21.615Z",
+            "updatedAt": "2023-10-11T22:31:08.255Z",
+            "tags": [],
+            "classTitle": "Polina-Key",
+            "nodes": {
+                "10e3f6ef-2c53-44ab-83ff-d498643d7e05": {
+                    "loc": [
+                        643,
+                        663
+                    ]
+                },
+                "9a028889-5666-4d48-8d1b-11db281e4e94": {
+                    "loc": [
+                        599,
+                        723
+                    ]
+                },
+                "ed8ad8b5-de77-4ca1-8114-76e9ba361cea": {
+                    "loc": [
+                        480,
+                        732
+                    ]
+                },
+                "4c8b1ba0-d5ab-4440-8b28-d6a381eb7713": {
+                    "loc": [
+                        629,
+                        746
+                    ]
+                },
+                "26776e2f-bdf8-4b2a-a964-05b2855ca4f4": {
+                    "loc": [
+                        560,
+                        790
+                    ]
+                },
+                "64eace77-c7ba-4fd6-be72-e222cf1c0bbc": {
+                    "loc": [
+                        514,
+                        860
+                    ]
+                },
+                "aa69fb53-9b46-4d54-b530-5b6e0a0c2d3c": {
+                    "loc": [
+                        651,
+                        778
+                    ]
+                },
+                "2a09593a-9a5b-4c5e-b923-d7cdcbfa4ad1": {
+                    "loc": [
+                        413,
+                        754
+                    ]
+                },
+                "f5678daa-79fa-47f4-8b15-9acdf2125b8f": {
+                    "loc": [
+                        499,
+                        498
+                    ]
+                },
+                "bfe94ac4-e5ba-4d6b-af66-77f7420f3317": {
+                    "loc": [
+                        701,
+                        542
+                    ]
+                },
+                "a6a67ef2-ccd8-4ffc-93d3-6c75241a6a88": {
+                    "loc": [
+                        698,
+                        472
+                    ]
+                },
+                "10dd74c8-6d3f-4079-8f69-0a20d0e16ab0": {
+                    "loc": [
+                        778,
+                        465
+                    ]
+                },
+                "e1c6c8b3-4f3a-4e44-91bb-152c3018cd0a": {
+                    "loc": [
+                        557,
+                        440
+                    ]
+                },
+                "53b4f47d-c49e-4328-b373-9842ab2c4c33": {
+                    "loc": [
+                        435,
+                        414
+                    ]
+                },
+                "0880e5f4-7d8b-4fc5-bc6e-27e14c9311ca": {
+                    "loc": [
+                        450,
+                        253
+                    ]
+                },
+                "b72a54f5-c4d2-4160-b954-693c6121483c": {
+                    "loc": [
+                        627,
+                        171
+                    ]
+                },
+                "a67a3437-83b7-46b6-857d-7648e33e38e1": {
+                    "loc": [
+                        793,
+                        264
+                    ]
+                },
+                "a0078693-445a-474d-9ca0-d8fd8c2148e5": {
+                    "loc": [
+                        330,
+                        587
+                    ]
+                },
+                "296041e5-0c53-4661-a8ca-eca15026025a": {
+                    "loc": [
+                        816,
+                        512
+                    ]
+                }
+            }
+        }
+    ]
+}

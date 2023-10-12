@@ -1,0 +1,203 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 128,
+        "width": 128
+    },
+    "objects": [
+        {
+            "id": 1436184252,
+            "classId": 11919094,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T06:51:53.643Z",
+            "updatedAt": "2023-10-12T07:48:41.606Z",
+            "tags": [],
+            "classTitle": "Danbus",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        22
+                    ],
+                    [
+                        88,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436227732,
+            "classId": 11919094,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T07:02:10.694Z",
+            "updatedAt": "2023-10-12T07:48:41.606Z",
+            "tags": [],
+            "classTitle": "Danbus",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLWQBzEyAwkLwjYJQEptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcuZ7ujiGVMzZeuk05xEFAbYHnJZPZgjpHL20xcR7Y4uMbcf/Y5VPHMMiOF4f5S9xuzi/w0lNMsPI3yFFxyFxDcOkRvFad30e85y9vvJfmzov8lgIZNYlSCrOjXA/Ef/gH7+906Twn7wfdVPYeC/KrWgzOpZ24tdJ9UuscfkLb/y/f/eCjt3VAJWkpsj+STkFKvwsGX9sTGb5SRXPXBYm9VmN8+2+a6vt/wk+ZzVtFYkFOpXB09XPZZ1TQhMAXzpcag==",
+                "origin": [
+                    31,
+                    21
+                ]
+            }
+        },
+        {
+            "id": 1436331187,
+            "classId": 11919208,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T07:48:41.477Z",
+            "updatedAt": "2023-10-12T07:49:07.303Z",
+            "tags": [],
+            "classTitle": "Danbus_keypoint",
+            "nodes": {
+                "8a6e56e5-32a7-4900-9d09-a0fa1cfdb58b": {
+                    "loc": [
+                        46,
+                        55
+                    ]
+                },
+                "ce3ce9f1-0e9c-4bc7-b744-3855659c6fc0": {
+                    "loc": [
+                        71,
+                        58
+                    ]
+                },
+                "7b296870-2474-4b62-aec1-953e8b91880b": {
+                    "loc": [
+                        46,
+                        27
+                    ]
+                },
+                "17381e80-1eb0-41b2-a54b-3bfef6d395b4": {
+                    "loc": [
+                        37,
+                        42
+                    ]
+                },
+                "7952112b-1421-4993-b7f0-9210b7a53d91": {
+                    "loc": [
+                        35,
+                        59
+                    ]
+                },
+                "2f2ce279-76b0-49b3-a26a-e2e611f7089c": {
+                    "loc": [
+                        35,
+                        78
+                    ]
+                },
+                "35bd553b-91da-4de2-900e-0efd675706a2": {
+                    "loc": [
+                        39,
+                        92
+                    ]
+                },
+                "67e27887-ed84-428a-9a30-a701c1949769": {
+                    "loc": [
+                        49,
+                        100
+                    ]
+                },
+                "17f9d236-13ff-46bd-8d6e-e5d9076de4e9": {
+                    "loc": [
+                        67,
+                        101
+                    ]
+                },
+                "7b107fe6-3e53-40bf-aa24-1ff839745085": {
+                    "loc": [
+                        77,
+                        93
+                    ]
+                },
+                "479dc258-69bd-48cf-bb5a-dadba0828893": {
+                    "loc": [
+                        86,
+                        79
+                    ]
+                },
+                "e10bf740-2492-4219-90a5-4b22ff86df49": {
+                    "loc": [
+                        88,
+                        61
+                    ]
+                },
+                "8014f482-1e80-4454-ba2c-34621ed59658": {
+                    "loc": [
+                        86,
+                        44
+                    ]
+                },
+                "53133d2e-74f9-41c1-abc0-fa43a6c1b5bf": {
+                    "loc": [
+                        81,
+                        32
+                    ]
+                },
+                "d86dc9c8-c07e-4c2a-8280-3d247cf52e53": {
+                    "loc": [
+                        65,
+                        24
+                    ]
+                },
+                "698d0623-0df9-4303-a20a-131e78dc0b24": {
+                    "loc": [
+                        58,
+                        65
+                    ]
+                },
+                "a1f8149c-3368-4d71-82d8-751883e91ab1": {
+                    "loc": [
+                        45,
+                        79
+                    ]
+                },
+                "aa3b2895-3641-493d-ad1d-01aa71d0e894": {
+                    "loc": [
+                        55,
+                        86
+                    ]
+                },
+                "737f251d-7e53-4281-956b-b247437bec5c": {
+                    "loc": [
+                        55,
+                        75
+                    ]
+                },
+                "5c8153c7-215d-433a-9cd4-9c7c36e11149": {
+                    "loc": [
+                        71,
+                        83
+                    ]
+                },
+                "5f3b90ac-e071-46c8-b319-b3fddd5b2498": {
+                    "loc": [
+                        57,
+                        95
+                    ]
+                },
+                "871148ad-19cd-414e-9fa0-745cb171f928": {
+                    "loc": [
+                        52,
+                        49
+                    ]
+                },
+                "6fb20aea-fc56-401c-9e88-b225dd5ceae2": {
+                    "loc": [
+                        66,
+                        49
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 357,
+        "width": 310
+    },
+    "objects": [
+        {
+            "id": 1436009523,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:01:59.628Z",
+            "updatedAt": "2023-10-11T22:25:48.998Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        110
+                    ],
+                    [
+                        256,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436009639,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:08:43.838Z",
+            "updatedAt": "2023-10-11T22:25:48.998Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "bitmap": {
+                "data": "eJwBIALf/YlQTkcNChoKAAAADUlIRFIAAAC3AAAA1AEDAAAA5MAgKAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHISURBVHic5dhBbsMgEAVQLC+85AgchaPB0bhJ6Q0sdeMFMk1jYw8wP8lEURups4n05Ngzg0kApdowOXV2CZ0vETueMuv2ynmp1eXMeuG8cjc5fcht+Pr7lfeac1BqFLoWuhU6xze874HUP4F/vej+f+vSfkK3nCvgHrvhPAp9Efr6ds5OrxuuhW6FzvI/dAfcvsiN0LXQJ5En8L4twGfgUfi75IFz/2n5Oo1YT+Bv7R3dAbfADXANnBvgH+cGLLGLh825hJLiH7y+ozON+BVnGv1SZwZM6ukZZ97opV6+3vW5Wb+WiEIPwD3wdt28xwo8AV+Azw/6x/4ZwfXIw3NuWt/a008Yddu7FxH4sUt50NMDvqLr3enHrsnlKubiVuim9lhcA5+Aj8CbGRaKN43whzvgFrgBroVeF6B4J5vTQegKOS2YbrstcFow3UTTwmbiE3BaWCQ+AKeJBuoWuAFOEvXUSUKqCuQOuAV+JFSfMZwJNT4BH4EfnWvONhTyUkBs3ADXwCfgJdHQ+HDHfePqjrcM3XJtO7w/dDJs27BvDZo7B0dUe4NC5wNf7l5Yz9eR7MvaCuPO0jSb/pbozPjIprklxLo+H/sNdQ2iAS5h5XUAAAAASUVORK5CYIJYuQK9",
+                "origin": [
+                    57,
+                    131
+                ]
+            }
+        },
+        {
+            "id": 1436025098,
+            "classId": 11918145,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:25:48.821Z",
+            "updatedAt": "2023-10-11T22:26:26.241Z",
+            "tags": [],
+            "classTitle": "Shepelev KeyPoint",
+            "nodes": {
+                "e907d882-fb18-4bc1-9503-eff05bab343e": {
+                    "loc": [
+                        166,
+                        342
+                    ]
+                },
+                "78ca5585-a797-44f1-bef6-a8437afd6b97": {
+                    "loc": [
+                        222,
+                        260
+                    ]
+                },
+                "3c397c20-db7c-4cc6-a7d1-062b1b1be219": {
+                    "loc": [
+                        229,
+                        214
+                    ]
+                },
+                "49baef34-aad3-4917-b2c1-6f892f6ff869": {
+                    "loc": [
+                        233,
+                        146
+                    ]
+                },
+                "e2c50c2e-cd31-42dd-b6c4-78781b689c1a": {
+                    "loc": [
+                        151,
+                        136
+                    ]
+                },
+                "315e8670-ab75-4df4-aff8-1b47814b1e67": {
+                    "loc": [
+                        61,
+                        151
+                    ]
+                },
+                "55aa59dd-4e70-4524-a43b-b037d8e0eb42": {
+                    "loc": [
+                        73,
+                        210
+                    ]
+                },
+                "baea9db5-74ef-4875-b5bb-60fea102c653": {
+                    "loc": [
+                        90,
+                        269
+                    ]
+                },
+                "64ae9734-b889-4be0-b11e-4ee62f04f475": {
+                    "loc": [
+                        137,
+                        310
+                    ]
+                },
+                "8f8fdcec-4753-48cf-a2e2-2195c4c1df92": {
+                    "loc": [
+                        187,
+                        309
+                    ]
+                },
+                "01ed1ec5-9b95-4e01-a544-d9f99a19a165": {
+                    "loc": [
+                        140,
+                        291
+                    ]
+                },
+                "d5b9612f-6207-46e1-afbc-de6804f8e82d": {
+                    "loc": [
+                        183,
+                        285
+                    ]
+                },
+                "253520ca-83e5-4e0f-b97a-de1396f00046": {
+                    "loc": [
+                        159,
+                        248
+                    ]
+                },
+                "d67ccab2-4479-404d-aafd-402cc5742999": {
+                    "loc": [
+                        114,
+                        239
+                    ]
+                },
+                "68799df2-1e24-4d9f-8a98-cb7bcf638882": {
+                    "loc": [
+                        198,
+                        230
+                    ]
+                },
+                "5c36788f-400a-4a16-8789-d38f508819ff": {
+                    "loc": [
+                        92,
+                        217
+                    ]
+                },
+                "923bb1a4-37ad-4123-b2a1-665e5619fc60": {
+                    "loc": [
+                        120,
+                        222
+                    ]
+                },
+                "aa01a13b-a2e4-496f-bc50-5e919cc37f16": {
+                    "loc": [
+                        196,
+                        213
+                    ]
+                },
+                "42937b47-09de-4d4e-952c-8c3408e7ceb9": {
+                    "loc": [
+                        223,
+                        202
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 320,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 1436014597,
+            "classId": 11918095,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "polinkiya@gmail.com",
+            "createdAt": "2023-10-11T22:12:24.210Z",
+            "updatedAt": "2023-10-11T22:12:24.210Z",
+            "tags": [],
+            "classTitle": "Elon Mask",
+            "points": {
+                "exterior": [
+                    [
+                        38,
+                        87
+                    ],
+                    [
+                        199,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

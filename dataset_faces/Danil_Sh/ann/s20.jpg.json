@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 353,
+        "width": 325
+    },
+    "objects": [
+        {
+            "id": 1436009528,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:02:10.681Z",
+            "updatedAt": "2023-10-11T22:27:32.066Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        75
+                    ],
+                    [
+                        268,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436011991,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:10:16.582Z",
+            "updatedAt": "2023-10-11T22:27:32.066Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "bitmap": {
+                "data": "eJwBAwL8/YlQTkcNChoKAAAADUlIRFIAAACqAAAA0gEDAAAA4MnJbQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGrSURBVHic7dhNkoMgEAXgWC6y5AgchaPB0TyKR2CZRcqeqIh09/OHiTNTqRqX36J9DYjK7ZYvQ3QDlyfqtVoieihtXkoDZl3cThwlT6qKm5llFZeYV2mS0pPxfWEecalBFHSOHe5Rac5m5bIhh9mvXCYkyE3BRcIWsym5P2JXcsS8Bi+1GHHGOTjLt07nBt85B8wd6mbtR/DSj+W89ONO8dKmr2I6xQMckmVQNvhexeY9Dntsr2D3++w/lKV+CDf/fDlTHXdVHKv4+YM8bpBqG5xZ7XczG8wWs8PsNRNa3hOD2COD2D/LoYo7NIAjG8wWs6tipJ/ADjFcPSOb8zzguXw9De2g+QH32PkzR3MP3yTzJ5TmgDh9tmywq2L7Fj922bzFcZflY3IJ95i7XZYr5e9Ybnn7LNfm99hfwa6KLWZTxRt/MHXcnuKkch4wPw+Yz0PM7I+5+NN1qDIb2Yi5K7gYlACZ/eW3mBvMa5v8HMIfcGScg/eYO8Y5eMDMNAcfMPODj5wwCrYoSL6n0FRclk7F9WmQQ3dMMyHvmDgoHqvoE6XxAqUnLkp/AXFpS33A+xEHAAAAAElFTkSuQmCCpnjsYQ==",
+                "origin": [
+                    96,
+                    83
+                ]
+            }
+        },
+        {
+            "id": 1436025127,
+            "classId": 11918145,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:27:31.989Z",
+            "updatedAt": "2023-10-11T22:27:59.774Z",
+            "tags": [],
+            "classTitle": "Shepelev KeyPoint",
+            "nodes": {
+                "e907d882-fb18-4bc1-9503-eff05bab343e": {
+                    "loc": [
+                        173,
+                        291
+                    ]
+                },
+                "78ca5585-a797-44f1-bef6-a8437afd6b97": {
+                    "loc": [
+                        236,
+                        252
+                    ]
+                },
+                "3c397c20-db7c-4cc6-a7d1-062b1b1be219": {
+                    "loc": [
+                        251,
+                        187
+                    ]
+                },
+                "49baef34-aad3-4917-b2c1-6f892f6ff869": {
+                    "loc": [
+                        241,
+                        107
+                    ]
+                },
+                "e2c50c2e-cd31-42dd-b6c4-78781b689c1a": {
+                    "loc": [
+                        190,
+                        85
+                    ]
+                },
+                "315e8670-ab75-4df4-aff8-1b47814b1e67": {
+                    "loc": [
+                        123,
+                        114
+                    ]
+                },
+                "55aa59dd-4e70-4524-a43b-b037d8e0eb42": {
+                    "loc": [
+                        106,
+                        186
+                    ]
+                },
+                "baea9db5-74ef-4875-b5bb-60fea102c653": {
+                    "loc": [
+                        121,
+                        243
+                    ]
+                },
+                "64ae9734-b889-4be0-b11e-4ee62f04f475": {
+                    "loc": [
+                        154,
+                        228
+                    ]
+                },
+                "8f8fdcec-4753-48cf-a2e2-2195c4c1df92": {
+                    "loc": [
+                        208,
+                        227
+                    ]
+                },
+                "01ed1ec5-9b95-4e01-a544-d9f99a19a165": {
+                    "loc": [
+                        158,
+                        190
+                    ]
+                },
+                "d5b9612f-6207-46e1-afbc-de6804f8e82d": {
+                    "loc": [
+                        201,
+                        191
+                    ]
+                },
+                "253520ca-83e5-4e0f-b97a-de1396f00046": {
+                    "loc": [
+                        182,
+                        153
+                    ]
+                },
+                "d67ccab2-4479-404d-aafd-402cc5742999": {
+                    "loc": [
+                        143,
+                        156
+                    ]
+                },
+                "68799df2-1e24-4d9f-8a98-cb7bcf638882": {
+                    "loc": [
+                        220,
+                        155
+                    ]
+                },
+                "5c36788f-400a-4a16-8789-d38f508819ff": {
+                    "loc": [
+                        128,
+                        139
+                    ]
+                },
+                "923bb1a4-37ad-4123-b2a1-665e5619fc60": {
+                    "loc": [
+                        156,
+                        141
+                    ]
+                },
+                "aa01a13b-a2e4-496f-bc50-5e919cc37f16": {
+                    "loc": [
+                        205,
+                        138
+                    ]
+                },
+                "42937b47-09de-4d4e-952c-8c3408e7ceb9": {
+                    "loc": [
+                        239,
+                        139
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 320,
+        "width": 302
+    },
+    "objects": [
+        {
+            "id": 1436009205,
+            "classId": 11917995,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T21:53:38.553Z",
+            "updatedAt": "2023-10-11T21:53:38.553Z",
+            "tags": [],
+            "classTitle": "christian bale",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        6
+                    ],
+                    [
+                        282,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

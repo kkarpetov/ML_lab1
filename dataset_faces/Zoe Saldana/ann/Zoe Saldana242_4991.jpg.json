@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 387,
+        "width": 327
+    },
+    "objects": [
+        {
+            "id": 1436009312,
+            "classId": 11917998,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "14patison02@gmail.com",
+            "createdAt": "2023-10-11T21:56:45.460Z",
+            "updatedAt": "2023-10-11T21:56:45.460Z",
+            "tags": [],
+            "classTitle": "Zoe_Soldana",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        10
+                    ],
+                    [
+                        274,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

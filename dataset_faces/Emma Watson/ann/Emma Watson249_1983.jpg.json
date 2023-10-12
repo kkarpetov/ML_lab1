@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 128,
+        "width": 121
+    },
+    "objects": [
+        {
+            "id": 1436182958,
+            "classId": 11919087,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T06:34:40.365Z",
+            "updatedAt": "2023-10-12T06:34:40.365Z",
+            "tags": [],
+            "classTitle": "Emma Watson",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        7
+                    ],
+                    [
+                        86,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

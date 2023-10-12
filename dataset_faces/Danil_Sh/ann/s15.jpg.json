@@ -1,0 +1,197 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 355,
+        "width": 218
+    },
+    "objects": [
+        {
+            "id": 1436009517,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:01:51.307Z",
+            "updatedAt": "2023-10-11T22:23:50.519Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        34
+                    ],
+                    [
+                        202,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436009599,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:07:13.851Z",
+            "updatedAt": "2023-10-11T22:23:50.519Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "bitmap": {
+                "data": "eJwBUQGu/olQTkcNChoKAAAADUlIRFIAAAB3AAAAgQEDAAAAwDy3zQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD5SURBVHic3dU9DoMwDAVgRwwZOQJH4WjkaJF6kCL1AkhdGBAuP3ESuxCLgQ7N9gnpPRNQArAtg4iQrYXYJ9arcYpuN8/R3eaYYHaiD66CKdEGDywecWTxqTAwFpKRxyM6Yc/iaYDkgdXRAMlT/nbReGo8ssnshP0Nrgrur7t7CL+YDb6Fkdkqbor2f+9WMeOyP2WPiufLbhXXiivF/H+bhMcf2CiGG90rdmXPULYT59lV7+dr8+1n6XnNx1FtFccPFu4Dc+bx2CDdBQ/BrTC9kAc+MJkGDIwDkoGNFwuSG1ZHAcmG1ZEhre7AU+a1oBd2mW1+e+/eN+cDK0RkHcYoFDUAAAAASUVORK5CYILWAo83",
+                "origin": [
+                    79,
+                    47
+                ]
+            }
+        },
+        {
+            "id": 1436009613,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:07:35.031Z",
+            "updatedAt": "2023-10-11T22:23:50.519Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIqQGzByAwk1986YQ2k2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyMnwdHEMqZgz9fxuwQYFAddACSYnrwUiXocv6RwVMjNJqNkkXy6hrGpxc/fmlorWn1d6zq61uNN3+Sj/y82vs3QepbLLLzdLqF/zwLn7yZ2D9YbPLToFbQIsvSYpc05ssZl4dItESqqZ3Qmdw3sY1z+e/vHzo5pJQDsZPF39XNY5JTQBAIlDSIw=",
+                "origin": [
+                    97,
+                    111
+                ]
+            }
+        },
+        {
+            "id": 1436025064,
+            "classId": 11918145,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:23:50.431Z",
+            "updatedAt": "2023-10-11T22:24:24.504Z",
+            "tags": [],
+            "classTitle": "Shepelev KeyPoint",
+            "nodes": {
+                "e907d882-fb18-4bc1-9503-eff05bab343e": {
+                    "loc": [
+                        142,
+                        174
+                    ]
+                },
+                "78ca5585-a797-44f1-bef6-a8437afd6b97": {
+                    "loc": [
+                        176,
+                        160
+                    ]
+                },
+                "3c397c20-db7c-4cc6-a7d1-062b1b1be219": {
+                    "loc": [
+                        188,
+                        119
+                    ]
+                },
+                "49baef34-aad3-4917-b2c1-6f892f6ff869": {
+                    "loc": [
+                        195,
+                        72
+                    ]
+                },
+                "e2c50c2e-cd31-42dd-b6c4-78781b689c1a": {
+                    "loc": [
+                        153,
+                        46
+                    ]
+                },
+                "315e8670-ab75-4df4-aff8-1b47814b1e67": {
+                    "loc": [
+                        109,
+                        63
+                    ]
+                },
+                "55aa59dd-4e70-4524-a43b-b037d8e0eb42": {
+                    "loc": [
+                        96,
+                        106
+                    ]
+                },
+                "baea9db5-74ef-4875-b5bb-60fea102c653": {
+                    "loc": [
+                        103,
+                        140
+                    ]
+                },
+                "64ae9734-b889-4be0-b11e-4ee62f04f475": {
+                    "loc": [
+                        126,
+                        143
+                    ]
+                },
+                "8f8fdcec-4753-48cf-a2e2-2195c4c1df92": {
+                    "loc": [
+                        156,
+                        150
+                    ]
+                },
+                "01ed1ec5-9b95-4e01-a544-d9f99a19a165": {
+                    "loc": [
+                        134,
+                        126
+                    ]
+                },
+                "d5b9612f-6207-46e1-afbc-de6804f8e82d": {
+                    "loc": [
+                        160,
+                        130
+                    ]
+                },
+                "253520ca-83e5-4e0f-b97a-de1396f00046": {
+                    "loc": [
+                        155,
+                        101
+                    ]
+                },
+                "d67ccab2-4479-404d-aafd-402cc5742999": {
+                    "loc": [
+                        130,
+                        97
+                    ]
+                },
+                "68799df2-1e24-4d9f-8a98-cb7bcf638882": {
+                    "loc": [
+                        175,
+                        107
+                    ]
+                },
+                "5c36788f-400a-4a16-8789-d38f508819ff": {
+                    "loc": [
+                        120,
+                        82
+                    ]
+                },
+                "923bb1a4-37ad-4123-b2a1-665e5619fc60": {
+                    "loc": [
+                        140,
+                        86
+                    ]
+                },
+                "aa01a13b-a2e4-496f-bc50-5e919cc37f16": {
+                    "loc": [
+                        170,
+                        93
+                    ]
+                },
+                "42937b47-09de-4d4e-952c-8c3408e7ceb9": {
+                    "loc": [
+                        186,
+                        96
+                    ]
+                }
+            }
+        }
+    ]
+}

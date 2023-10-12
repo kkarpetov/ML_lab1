@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 221,
+        "width": 209
+    },
+    "objects": [
+        {
+            "id": 1436183502,
+            "classId": 11919089,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T06:41:05.666Z",
+            "updatedAt": "2023-10-12T06:41:05.666Z",
+            "tags": [],
+            "classTitle": "Selena Gomez",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        26
+                    ],
+                    [
+                        169,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

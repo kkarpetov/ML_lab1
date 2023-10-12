@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 266,
+        "width": 251
+    },
+    "objects": [
+        {
+            "id": 1436009408,
+            "classId": 11918000,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:00:03.395Z",
+            "updatedAt": "2023-10-11T22:00:03.395Z",
+            "tags": [],
+            "classTitle": "tom holland",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        13
+                    ],
+                    [
+                        219,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 266,
+        "width": 251
+    },
+    "objects": [
+        {
+            "id": 1436182427,
+            "classId": 11919085,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T06:26:39.658Z",
+            "updatedAt": "2023-10-12T06:26:39.658Z",
+            "tags": [],
+            "classTitle": "Ann Hataway",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        31
+                    ],
+                    [
+                        218,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

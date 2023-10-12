@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 303,
+        "width": 231
+    },
+    "objects": [
+        {
+            "id": 1436009603,
+            "classId": 11918001,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "14patison02@gmail.com",
+            "createdAt": "2023-10-11T22:07:20.286Z",
+            "updatedAt": "2023-10-11T22:21:50.032Z",
+            "tags": [],
+            "classTitle": "Zinger",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        43
+                    ],
+                    [
+                        189,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436009644,
+            "classId": 11918001,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "14patison02@gmail.com",
+            "createdAt": "2023-10-11T22:09:02.110Z",
+            "updatedAt": "2023-10-11T22:21:50.032Z",
+            "tags": [],
+            "classTitle": "Zinger",
+            "bitmap": {
+                "data": "eJwB7gER/olQTkcNChoKAAAADUlIRFIAAACdAAAA3AEDAAAAUOwxXAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGWSURBVHic7dhBroMgEAZgmi665AgcpUfTo3EUjsCShWFeFGGA+TG+NOblNbL80sr82NgZlVrXi9Y1q2ZNG1KLychX9KC8IFpGXTAgJFfwTeCjFfJHqV4Q9wKeDXqEywHqBiNCgphO1bRoEbrT6BEGhIs4uVL9dAJJHiftkRA+TqE9jU7cjRH6z/F1AeoeA8IFYZQ3c4AE7sZ29AhF9CGKigZo+5/Xb1HaJeg+Q/+fMdx4443fiH/7YIGPyiue3vPXIfp/JtmBDTBegIvoFBMageE0etDarCjaJYwONGtrryhaxSHKU7agz926SohvhKbHMEKNUOQMqCkdosgZUEM+xgnhu0MPpomEGmEfyclJah97IPaRLBo8ZjSiKDDhxAM0CNtIcOTb59A2pzvANqdFmAJ14dUBNicSM06y9jY8xDJYmwp9xjq8y1jntBnrSHPGunpVFhcaES6MXCh8VeAZuSbHyDVZRq5pZuQTraxsH2rM5+Rr1HIfrqneJ28fVbPAPnkn1yJ8SfMEl0wXdT0a+e3toiXOD0A1IFeBJy/+AAAAAElFTkSuQmCCZCHXsg==",
+                "origin": [
+                    32,
+                    41
+                ]
+            }
+        },
+        {
+            "id": 1436014779,
+            "classId": 11918143,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "14patison02@gmail.com",
+            "createdAt": "2023-10-11T22:21:49.912Z",
+            "updatedAt": "2023-10-11T22:21:49.912Z",
+            "tags": [],
+            "classTitle": "Zinger_keypoint",
+            "nodes": {
+                "d78316e4-0af9-4079-b924-0b8077de8bc4": {
+                    "loc": [
+                        115,
+                        153
+                    ]
+                },
+                "631df846-50d6-4273-acfe-40c014777f68": {
+                    "loc": [
+                        118,
+                        116
+                    ]
+                },
+                "0908da6c-112a-4553-9145-2391f41bb804": {
+                    "loc": [
+                        141,
+                        101
+                    ]
+                },
+                "44efec5e-e4a0-4e90-9d52-6bc05c1b7ce2": {
+                    "loc": [
+                        177,
+                        114
+                    ]
+                },
+                "bbf2a2fe-5ad7-4b17-98fd-50ea66b4dd1c": {
+                    "loc": [
+                        95,
+                        100
+                    ]
+                },
+                "a1efee10-e5b7-46d4-8465-beaae44641d7": {
+                    "loc": [
+                        55,
+                        105
+                    ]
+                },
+                "c709fec9-628d-43a1-aee2-6bcf030a9de1": {
+                    "loc": [
+                        78,
+                        127
+                    ]
+                },
+                "99e6cfec-2ea4-4917-b655-1dc6becf797b": {
+                    "loc": [
+                        150,
+                        130
+                    ]
+                },
+                "c1606218-2590-4b04-a69b-95be5ec50e87": {
+                    "loc": [
+                        115,
+                        49
+                    ]
+                },
+                "beadbd61-bc7f-4f92-8721-6f081266260d": {
+                    "loc": [
+                        56,
+                        75
+                    ]
+                },
+                "d608cfa5-717f-4edf-8940-adb4a85b1ebe": {
+                    "loc": [
+                        43,
+                        146
+                    ]
+                },
+                "a0eaa53a-f03c-4206-b9bf-707c415c8463": {
+                    "loc": [
+                        54,
+                        213
+                    ]
+                },
+                "21848550-8c16-462c-9422-8842daeea46d": {
+                    "loc": [
+                        113,
+                        258
+                    ]
+                },
+                "3ab7fbb2-5824-4c67-8f6b-74f95623463b": {
+                    "loc": [
+                        163,
+                        225
+                    ]
+                },
+                "68105629-1449-419c-81aa-0a82da376864": {
+                    "loc": [
+                        182,
+                        161
+                    ]
+                },
+                "4d1b89e4-d9de-44d1-ab01-9534c7f02380": {
+                    "loc": [
+                        174,
+                        81
+                    ]
+                },
+                "2c15995f-8282-4d61-a987-2c63c4799cc0": {
+                    "loc": [
+                        144,
+                        205
+                    ]
+                },
+                "e0196bc9-d41e-4242-9573-b767789d630b": {
+                    "loc": [
+                        86,
+                        205
+                    ]
+                },
+                "f84e2e66-81ba-4be3-998f-b1dd5f1a8866": {
+                    "loc": [
+                        117,
+                        203
+                    ]
+                }
+            }
+        }
+    ]
+}

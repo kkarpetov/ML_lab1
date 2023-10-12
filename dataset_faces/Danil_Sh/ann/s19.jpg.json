@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 355,
+        "width": 253
+    },
+    "objects": [
+        {
+            "id": 1436009525,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:02:02.562Z",
+            "updatedAt": "2023-10-11T22:26:30.388Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "points": {
+                "exterior": [
+                    [
+                        23,
+                        61
+                    ],
+                    [
+                        230,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436009650,
+            "classId": 11917992,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:09:20.784Z",
+            "updatedAt": "2023-10-11T22:26:30.388Z",
+            "tags": [],
+            "classTitle": "Danil_S",
+            "bitmap": {
+                "data": "eJwBNQLK/YlQTkcNChoKAAAADUlIRFIAAADDAAABAwEDAAAAsi4i6QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHdSURBVHic7dkxcsMgEAVQPClc6gg6CkdDR+MoHEGlCo2J7YgFdvcjm1FSOFLneRP0P8jYwcbky8bVqNdXjNGr4u4ya3C5Q7yhwWKcFLFP0TI8QRtu+BElg91k0e//uLhcSQITR8IzZGGVLhlYuqGQ+o9cKQFKOVx5m7rstZKy7FCLzzLWUkSwtRQ3qqFYvi8meepYtGIWBigjFwpnoTguFJsDyUVIis3rZBF1aLZFHSok6tA6KBJAnZbMoE6qqskKiu6LMgXb9LwnEU3broyaTFB8hwT1aTvllFPy5U/pkqkt7j0xx4sG3WI7RIWGBP0TqykL+Ixpya1D7ks3fpR4KKEh9sPEHSoATvln4oB4+CTid+PU2JHUb+TxscWC3TLq/0fE7Su+mmGFskCZoQQoHsoExSBZoSxQ5h0ZoGjrEH5BtFX1h8rUIeaUHrmdcrCsfyvKTtoj6SQLi4NiO2SEMkCRW9Js0PQkkVWTyKokjktIIgqRiEIkopDfF1E1gaxKwqsWh85MisNyB4VVnbOMUFhs/4qw2OYVqWNXh/Vl7PrYfdB7snDs5F/vySKEWorhfC1FI8MuB4Vyi9846FkQP1fQGs1C0nBBSEo3CUnDSdgyyABmmzsZIA1Hr74BhX0R87/mpvIAAAAASUVORK5CYIIuu/81",
+                "origin": [
+                    27,
+                    63
+                ]
+            }
+        },
+        {
+            "id": 1436025112,
+            "classId": 11918145,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "danil.shepelev23@gmail.com",
+            "createdAt": "2023-10-11T22:26:30.311Z",
+            "updatedAt": "2023-10-11T22:26:57.755Z",
+            "tags": [],
+            "classTitle": "Shepelev KeyPoint",
+            "nodes": {
+                "e907d882-fb18-4bc1-9503-eff05bab343e": {
+                    "loc": [
+                        136,
+                        319
+                    ]
+                },
+                "78ca5585-a797-44f1-bef6-a8437afd6b97": {
+                    "loc": [
+                        188,
+                        293
+                    ]
+                },
+                "3c397c20-db7c-4cc6-a7d1-062b1b1be219": {
+                    "loc": [
+                        214,
+                        194
+                    ]
+                },
+                "49baef34-aad3-4917-b2c1-6f892f6ff869": {
+                    "loc": [
+                        210,
+                        103
+                    ]
+                },
+                "e2c50c2e-cd31-42dd-b6c4-78781b689c1a": {
+                    "loc": [
+                        129,
+                        64
+                    ]
+                },
+                "315e8670-ab75-4df4-aff8-1b47814b1e67": {
+                    "loc": [
+                        48,
+                        108
+                    ]
+                },
+                "55aa59dd-4e70-4524-a43b-b037d8e0eb42": {
+                    "loc": [
+                        40,
+                        192
+                    ]
+                },
+                "baea9db5-74ef-4875-b5bb-60fea102c653": {
+                    "loc": [
+                        55,
+                        275
+                    ]
+                },
+                "64ae9734-b889-4be0-b11e-4ee62f04f475": {
+                    "loc": [
+                        90,
+                        239
+                    ]
+                },
+                "8f8fdcec-4753-48cf-a2e2-2195c4c1df92": {
+                    "loc": [
+                        165,
+                        241
+                    ]
+                },
+                "01ed1ec5-9b95-4e01-a544-d9f99a19a165": {
+                    "loc": [
+                        106,
+                        199
+                    ]
+                },
+                "d5b9612f-6207-46e1-afbc-de6804f8e82d": {
+                    "loc": [
+                        152,
+                        199
+                    ]
+                },
+                "253520ca-83e5-4e0f-b97a-de1396f00046": {
+                    "loc": [
+                        128,
+                        152
+                    ]
+                },
+                "d67ccab2-4479-404d-aafd-402cc5742999": {
+                    "loc": [
+                        84,
+                        154
+                    ]
+                },
+                "68799df2-1e24-4d9f-8a98-cb7bcf638882": {
+                    "loc": [
+                        175,
+                        155
+                    ]
+                },
+                "5c36788f-400a-4a16-8789-d38f508819ff": {
+                    "loc": [
+                        66,
+                        127
+                    ]
+                },
+                "923bb1a4-37ad-4123-b2a1-665e5619fc60": {
+                    "loc": [
+                        106,
+                        125
+                    ]
+                },
+                "aa01a13b-a2e4-496f-bc50-5e919cc37f16": {
+                    "loc": [
+                        157,
+                        119
+                    ]
+                },
+                "42937b47-09de-4d4e-952c-8c3408e7ceb9": {
+                    "loc": [
+                        196,
+                        129
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 129,
+        "width": 122
+    },
+    "objects": [
+        {
+            "id": 1436008262,
+            "classId": 11917983,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T21:33:51.654Z",
+            "updatedAt": "2023-10-11T21:33:51.654Z",
+            "tags": [],
+            "classTitle": "alexandra dadario",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        6
+                    ],
+                    [
+                        113,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

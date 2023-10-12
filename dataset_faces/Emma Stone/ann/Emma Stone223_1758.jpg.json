@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 155,
+        "width": 146
+    },
+    "objects": [
+        {
+            "id": 1436009151,
+            "classId": 11917994,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "sevruyk.2002@mail.ru",
+            "createdAt": "2023-10-11T21:52:39.039Z",
+            "updatedAt": "2023-10-11T21:52:42.427Z",
+            "tags": [],
+            "classTitle": "Emma Stone",
+            "points": {
+                "exterior": [
+                    [
+                        19,
+                        14
+                    ],
+                    [
+                        106,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 320,
+        "width": 247
+    },
+    "objects": [
+        {
+            "id": 1436009010,
+            "classId": 11917990,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T21:48:37.848Z",
+            "updatedAt": "2023-10-11T21:48:37.848Z",
+            "tags": [],
+            "classTitle": "emilia clarcke",
+            "points": {
+                "exterior": [
+                    [
+                        31,
+                        27
+                    ],
+                    [
+                        210,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

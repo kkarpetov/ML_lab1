@@ -1,0 +1,221 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 128,
+        "width": 128
+    },
+    "objects": [
+        {
+            "id": 1436331930,
+            "classId": 11917975,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T07:56:50.717Z",
+            "updatedAt": "2023-10-12T09:12:31.323Z",
+            "tags": [],
+            "classTitle": "Julia",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        20
+                    ],
+                    [
+                        113,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436332772,
+            "classId": 11917975,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T08:10:36.522Z",
+            "updatedAt": "2023-10-12T09:12:31.323Z",
+            "tags": [],
+            "classTitle": "Julia",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtL2QBzFyAwkTVfIlAIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcrZ6ujiGVMyZemkj7xEFHtYAAVZVZQMvs93JJm4nOaZoCtjl/Omew6/pfnjyhubAfcV74vLWOuQqXlbdrf6qysl5QofHh3kaq1tW+LkcW6nadOaB/qRDzIwT1PbpMEpavHvx+pR1yvOTDPwt7B3VKs17nK8z/j+8tP9H47L1lS3CK9iOHqhNlihp5s5gey4nqlFt8cczgUH2gYScuckCpUTRmdpcnlksTWXcs5ZFfdIsDllSqfqfYRNbXZj3ZfY3PqJKTY9tdgE9wODp6ueyzimhCQDwYmLc",
+                "origin": [
+                    49,
+                    19
+                ]
+            }
+        },
+        {
+            "id": 1436378482,
+            "classId": 11919487,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "juk",
+            "createdAt": "2023-10-12T09:12:31.167Z",
+            "updatedAt": "2023-10-12T09:13:35.292Z",
+            "tags": [],
+            "classTitle": "Julia_keypoint",
+            "nodes": {
+                "306d0213-9b4b-4e8f-bd53-845c76735bd7": {
+                    "loc": [
+                        71,
+                        53
+                    ]
+                },
+                "687a7d40-1c40-479c-8777-29d06446f5c3": {
+                    "loc": [
+                        97,
+                        64
+                    ]
+                },
+                "85e9209c-ae3a-4734-9d4a-96dca1bc17b6": {
+                    "loc": [
+                        82,
+                        70
+                    ]
+                },
+                "2b097a61-138f-4093-a1aa-e115aacaf7bb": {
+                    "loc": [
+                        76,
+                        77
+                    ]
+                },
+                "c59ba1e8-de91-4f56-916b-bca8d72aade5": {
+                    "loc": [
+                        77,
+                        86
+                    ]
+                },
+                "68dc85c9-1caf-4cfe-abe4-c54f7fe77ec2": {
+                    "loc": [
+                        63,
+                        86
+                    ]
+                },
+                "87814994-1ece-4336-8440-3b069464fe7b": {
+                    "loc": [
+                        84,
+                        93
+                    ]
+                },
+                "2c3e85e3-d7a8-41c7-8eb6-58e7dadf50e3": {
+                    "loc": [
+                        73,
+                        95
+                    ]
+                },
+                "51b94edc-bba3-4b7e-91e7-17701a0a2aa5": {
+                    "loc": [
+                        66,
+                        108
+                    ]
+                },
+                "ac9c6653-9ae3-44e6-aaf8-059d1008a719": {
+                    "loc": [
+                        67,
+                        41
+                    ]
+                },
+                "5362158e-e213-405e-9e49-95a506b44ac8": {
+                    "loc": [
+                        106,
+                        55
+                    ]
+                },
+                "d4891a0e-d01a-4d47-a723-7d431bee4e7c": {
+                    "loc": [
+                        83,
+                        50
+                    ]
+                },
+                "14dd6731-6bd4-46a0-ab55-bdcdfd079b35": {
+                    "loc": [
+                        93,
+                        52
+                    ]
+                },
+                "4de14a06-9fe9-497b-96bf-63cfdd3bb5de": {
+                    "loc": [
+                        97,
+                        21
+                    ]
+                },
+                "fcd8d421-8153-4e65-9992-bbd93a74d026": {
+                    "loc": [
+                        69,
+                        28
+                    ]
+                },
+                "e2d329df-33bf-4ea3-a740-865508c77031": {
+                    "loc": [
+                        111,
+                        40
+                    ]
+                },
+                "5a004b7a-3dfe-40f9-bff4-ee64eecb70d4": {
+                    "loc": [
+                        50,
+                        66
+                    ]
+                },
+                "7d68a52b-297d-4fa5-afba-2ef6e85db375": {
+                    "loc": [
+                        102,
+                        81
+                    ]
+                },
+                "b9e457b1-ab7a-4780-9cc2-cf696a1b0b32": {
+                    "loc": [
+                        51,
+                        90
+                    ]
+                },
+                "15318ffe-6ea4-4f03-b731-f1acfe82d9d7": {
+                    "loc": [
+                        92,
+                        94
+                    ]
+                },
+                "7d200769-8a86-4c75-8f61-66bc439bbd75": {
+                    "loc": [
+                        81,
+                        106
+                    ]
+                },
+                "577425ae-9cb1-4373-bb74-7f690942e272": {
+                    "loc": [
+                        84,
+                        79
+                    ]
+                },
+                "a38feb6c-49da-4484-b9a7-affbcfa4305d": {
+                    "loc": [
+                        90,
+                        62
+                    ]
+                },
+                "9c4d4dc5-982f-436d-990b-d4904956bcf5": {
+                    "loc": [
+                        101,
+                        65
+                    ]
+                },
+                "f10e89d7-24ea-4608-a37f-7b6b94d4cca1": {
+                    "loc": [
+                        65,
+                        51
+                    ]
+                },
+                "1f78f33c-a248-420c-a626-a41508724fb3": {
+                    "loc": [
+                        77,
+                        55
+                    ]
+                }
+            }
+        }
+    ]
+}

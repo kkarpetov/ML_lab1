@@ -1,0 +1,203 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 408,
+        "width": 305
+    },
+    "objects": [
+        {
+            "id": 1436009213,
+            "classId": 11917973,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T21:53:49.458Z",
+            "updatedAt": "2023-10-11T22:28:45.464Z",
+            "tags": [],
+            "classTitle": "kkarp",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        96
+                    ],
+                    [
+                        250,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436009481,
+            "classId": 11917973,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T22:01:01.277Z",
+            "updatedAt": "2023-10-11T22:28:45.464Z",
+            "tags": [],
+            "classTitle": "kkarp",
+            "bitmap": {
+                "data": "eJwBsgJN/YlQTkcNChoKAAAADUlIRFIAAAEDAAABOAEDAAAAZaIE5gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJaSURBVHic7drJccMgFAZgMjn4SAmUQmmiNEpRCRw5aCCWrYXlLbLNaGwHrv4i3v8EkReE2IaMMU6CGsNVREuA3xlEh7yqghD6JiIh7gCZ5hKjl4tYprld0WdCxfQil+KC17+fdATGyIqt7vnVARQmEfBYC0HBVgguXNrvJ4XfwmJj4qLEwIrIC8OKkRWOFZ5p6RqXEqGBiC3E3LKfNxCWXmKHxNhIXN5EyFOEaiA0K4aPESSYBb2Q/5+gN9QBYY8Ieru0EpIWhhXslovshmolNAkCKyZW+FOEO0Uc+zdGC8sK00Bw708OiMCKqYG4vVEaXhOui2cEBT5M0A+gbxP0g7CLZwT92P9fYn6IyY8RihX6DYQ9RZhGYvgSwT4ImwkShFPEdIrwXTQXrosuuuiii/uvL108KobXhD0m9ClCvSZMKyFPEeRnMdFKkJ+AG4j7T5HUdxfTQUEt9kUMDYTGhWeFOyoULkZW2LuQrCBuvxHcrVsE0fYF4E0Nq9CsUJjYDoNITGzHLtC4bhVo3AcEulLHVaAt28WACLsJxQqJCLMJrCG7wOKKfcAgJAIOk57i0aDwiVCgcImQoBgTAce1iYDjmkSAdzcNC8fNjyxBYXIBhfGZgMK4TECljpmACrG5AKYxuQDyFqBOE0pR1Vqf8SqncZXQdFggr61EWUgZti6kBoWowlalQgfa8lI9IPLF6gCR7806bFkIEDYvBIqSrxH4bF5aKlho1jOw0FTAZaRhoH7lYUZESLobaRisjH0RYWXspWJl7F3FyhDr7cUnEUvT8EmWSoo5/gA2y4jtckd7XgAAAABJRU5ErkJggkXBLLU=",
+                "origin": [
+                    16,
+                    82
+                ]
+            }
+        },
+        {
+            "id": 1436025147,
+            "classId": 11918142,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T22:28:45.335Z",
+            "updatedAt": "2023-10-11T22:29:16.709Z",
+            "tags": [],
+            "classTitle": "kkarp_key",
+            "nodes": {
+                "0e36811e-15ea-4a6a-bca1-d89124f1ea19": {
+                    "loc": [
+                        143,
+                        278
+                    ]
+                },
+                "17ae7003-13b7-4e46-a2b7-108a69117c55": {
+                    "loc": [
+                        142,
+                        329
+                    ]
+                },
+                "be71e1dc-e9a7-4ab7-a4c2-f744318f71d0": {
+                    "loc": [
+                        142,
+                        357
+                    ]
+                },
+                "42477f31-177e-4f28-9194-513de735c5cb": {
+                    "loc": [
+                        229,
+                        342
+                    ]
+                },
+                "423b6dde-d0e3-4dbb-b749-9086201bf18c": {
+                    "loc": [
+                        75,
+                        338
+                    ]
+                },
+                "25bcdcab-dfaf-427f-bbd5-a80a75f800e1": {
+                    "loc": [
+                        94,
+                        209
+                    ]
+                },
+                "f91a18a7-357f-4c9d-ab46-a9852eb27b66": {
+                    "loc": [
+                        198,
+                        220
+                    ]
+                },
+                "10dc8053-7b4e-4111-8aae-a2bccfa7d0ed": {
+                    "loc": [
+                        64,
+                        193
+                    ]
+                },
+                "9e9cc977-f791-424c-8f4f-9c355a886d15": {
+                    "loc": [
+                        110,
+                        188
+                    ]
+                },
+                "ac81fc00-50cd-4c4e-9bff-53816a2c9163": {
+                    "loc": [
+                        175,
+                        196
+                    ]
+                },
+                "f221e645-e6cd-4e15-b9b1-4c8fe2a164bd": {
+                    "loc": [
+                        225,
+                        201
+                    ]
+                },
+                "d341b8cc-1770-46c0-8c30-efe9ed0b93e1": {
+                    "loc": [
+                        137,
+                        391
+                    ]
+                },
+                "c393b4ce-e9b4-43a6-870f-f826b4f75c6f": {
+                    "loc": [
+                        42,
+                        273
+                    ]
+                },
+                "58b0f631-0c04-4ccd-a5b1-8a8fd7814508": {
+                    "loc": [
+                        251,
+                        273
+                    ]
+                },
+                "e6f6e5c6-3b46-4f9a-8660-bfee905c9dd6": {
+                    "loc": [
+                        251,
+                        168
+                    ]
+                },
+                "7df22def-73c7-4a0a-93cd-81d3961c36e0": {
+                    "loc": [
+                        218,
+                        128
+                    ]
+                },
+                "333c43cf-efe9-4d58-bf2a-9c55c1b9f1ed": {
+                    "loc": [
+                        162,
+                        110
+                    ]
+                },
+                "a37a461d-eaed-497c-97cb-3c61d8fdeebd": {
+                    "loc": [
+                        97,
+                        107
+                    ]
+                },
+                "7b5a4afc-fe9a-46da-acd6-4e5c26d6c076": {
+                    "loc": [
+                        44,
+                        124
+                    ]
+                },
+                "69efa769-83c0-47d2-ab1f-c2c91b0ad1ce": {
+                    "loc": [
+                        33,
+                        192
+                    ]
+                },
+                "9773c8e4-6bb3-491b-b63b-7df94dd8f094": {
+                    "loc": [
+                        142,
+                        307
+                    ]
+                },
+                "9687c1f3-02bc-4977-9b48-5f2394f58174": {
+                    "loc": [
+                        179,
+                        321
+                    ]
+                },
+                "e354e8ee-b019-405b-94a2-510423a8a91f": {
+                    "loc": [
+                        96,
+                        314
+                    ]
+                }
+            }
+        }
+    ]
+}

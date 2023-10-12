@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 320,
+        "width": 302
+    },
+    "objects": [
+        {
+            "id": 1436183967,
+            "classId": 11919091,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Danbus1337",
+            "createdAt": "2023-10-12T06:47:51.651Z",
+            "updatedAt": "2023-10-12T06:47:51.651Z",
+            "tags": [],
+            "classTitle": "Tom Hardy",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        35
+                    ],
+                    [
+                        253,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

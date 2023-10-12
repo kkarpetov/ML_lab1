@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 668,
+        "width": 564
+    },
+    "objects": [
+        {
+            "id": 1436009448,
+            "classId": 11917999,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "sevruyk.2002@mail.ru",
+            "createdAt": "2023-10-11T22:00:35.239Z",
+            "updatedAt": "2023-10-11T22:00:35.239Z",
+            "tags": [],
+            "classTitle": "Cristiano Ronaldo",
+            "points": {
+                "exterior": [
+                    [
+                        54,
+                        63
+                    ],
+                    [
+                        529,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

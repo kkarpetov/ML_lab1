@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 306,
+        "width": 242
+    },
+    "objects": [
+        {
+            "id": 1436009629,
+            "classId": 11918001,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "14patison02@gmail.com",
+            "createdAt": "2023-10-11T22:08:07.877Z",
+            "updatedAt": "2023-10-11T22:27:51.205Z",
+            "tags": [],
+            "classTitle": "Zinger",
+            "points": {
+                "exterior": [
+                    [
+                        95,
+                        55
+                    ],
+                    [
+                        196,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436014550,
+            "classId": 11918001,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "14patison02@gmail.com",
+            "createdAt": "2023-10-11T22:11:17.176Z",
+            "updatedAt": "2023-10-11T22:27:51.205Z",
+            "tags": [],
+            "classTitle": "Zinger",
+            "bitmap": {
+                "data": "eJwBbwGQ/olQTkcNChoKAAAADUlIRFIAAABoAAAAhQEDAAAAjQgvvgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEXSURBVHictdXBDYQgEAVQjQePlEAplAalWQodLEcORHYRZpjvrsaYlduLYf6QyDAM27LZDbymnEOXyll8NFl+tB8lwpjLEkU+a2maN9FGvSmKIr3MhrzKIlR0bnLcV4/QINMURAAFNtTAEURxNZ7iarxiORFXAw3Li7gqRmlm7Ip7TV1Jhhf18NKaBhlQDy9t52ONoOlE802pE+kHZA613pa9LBmeHlB8QOGy/GUtf5G7qf0vb4+EFyftpY8U4TIGuKgoD1f6TAuMAgdD40SrnG11gLGinIJ1DKL4SB7kvqV+C2bwCvM5/RAdN4KCeDhaKzvRcetcp0PAO9LeitYMvSMzaBLhVNSTLJ+OI1hKbitFX10Dl38D1uc0flv1xjcAAAAASUVORK5CYIIOm5UA",
+                "origin": [
+                    93,
+                    60
+                ]
+            }
+        },
+        {
+            "id": 1436025131,
+            "classId": 11918143,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "14patison02@gmail.com",
+            "createdAt": "2023-10-11T22:27:51.087Z",
+            "updatedAt": "2023-10-11T22:28:34.806Z",
+            "tags": [],
+            "classTitle": "Zinger_keypoint",
+            "nodes": {
+                "d78316e4-0af9-4079-b924-0b8077de8bc4": {
+                    "loc": [
+                        158,
+                        143
+                    ]
+                },
+                "631df846-50d6-4273-acfe-40c014777f68": {
+                    "loc": [
+                        160,
+                        117
+                    ]
+                },
+                "0908da6c-112a-4553-9145-2391f41bb804": {
+                    "loc": [
+                        151,
+                        106
+                    ]
+                },
+                "44efec5e-e4a0-4e90-9d52-6bc05c1b7ce2": {
+                    "loc": [
+                        193,
+                        111
+                    ]
+                },
+                "bbf2a2fe-5ad7-4b17-98fd-50ea66b4dd1c": {
+                    "loc": [
+                        120,
+                        99
+                    ]
+                },
+                "a1efee10-e5b7-46d4-8465-beaae44641d7": {
+                    "loc": [
+                        105,
+                        100
+                    ]
+                },
+                "c709fec9-628d-43a1-aee2-6bcf030a9de1": {
+                    "loc": [
+                        134,
+                        116
+                    ]
+                },
+                "99e6cfec-2ea4-4917-b655-1dc6becf797b": {
+                    "loc": [
+                        177,
+                        122
+                    ]
+                },
+                "c1606218-2590-4b04-a69b-95be5ec50e87": {
+                    "loc": [
+                        145,
+                        68
+                    ]
+                },
+                "beadbd61-bc7f-4f92-8721-6f081266260d": {
+                    "loc": [
+                        106,
+                        83
+                    ]
+                },
+                "d608cfa5-717f-4edf-8940-adb4a85b1ebe": {
+                    "loc": [
+                        97,
+                        124
+                    ]
+                },
+                "a0eaa53a-f03c-4206-b9bf-707c415c8463": {
+                    "loc": [
+                        104,
+                        163
+                    ]
+                },
+                "21848550-8c16-462c-9422-8842daeea46d": {
+                    "loc": [
+                        143,
+                        189
+                    ]
+                },
+                "3ab7fbb2-5824-4c67-8f6b-74f95623463b": {
+                    "loc": [
+                        177,
+                        170
+                    ]
+                },
+                "68105629-1449-419c-81aa-0a82da376864": {
+                    "loc": [
+                        190,
+                        133
+                    ]
+                },
+                "4d1b89e4-d9de-44d1-ab01-9534c7f02380": {
+                    "loc": [
+                        188,
+                        80
+                    ]
+                },
+                "2c15995f-8282-4d61-a987-2c63c4799cc0": {
+                    "loc": [
+                        165,
+                        167
+                    ]
+                },
+                "e0196bc9-d41e-4242-9573-b767789d630b": {
+                    "loc": [
+                        128,
+                        162
+                    ]
+                },
+                "f84e2e66-81ba-4be3-998f-b1dd5f1a8866": {
+                    "loc": [
+                        150,
+                        166
+                    ]
+                }
+            }
+        }
+    ]
+}

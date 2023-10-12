@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 266,
+        "width": 223
+    },
+    "objects": [
+        {
+            "id": 1436009030,
+            "classId": 11917996,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "14patison02@gmail.com",
+            "createdAt": "2023-10-11T21:48:59.231Z",
+            "updatedAt": "2023-10-11T21:48:59.231Z",
+            "tags": [],
+            "classTitle": "Zendeya",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        68
+                    ],
+                    [
+                        196,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

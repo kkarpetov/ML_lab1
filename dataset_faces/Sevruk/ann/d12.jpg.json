@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 363,
+        "width": 250
+    },
+    "objects": [
+        {
+            "id": 1436014660,
+            "classId": 11917988,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "sevruyk.2002@mail.ru",
+            "createdAt": "2023-10-11T22:13:37.901Z",
+            "updatedAt": "2023-10-11T22:34:38.516Z",
+            "tags": [],
+            "classTitle": "Denis",
+            "bitmap": {
+                "data": "eJwBwQI+/YlQTkcNChoKAAAADUlIRFIAAADQAAABGwEDAAAAkTKY9AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJpSURBVHic7dlNboMwEAXgVCyy9BF8FB/NHI2jcASWSEW4KQEzHs8byDT9iVS2nwJvHk5C4suFHk3qLuBo0ogopBlTagGllHp0qYQu5m40yRRvlLCIOa6LpEGgcCfhYs1dhKHX0wkXa7JUDfudejmDEPFtF14VuRRPT4mlvxIqW0yOEh2sSZ4SHax4TTlYwBRLIjM3pdCZr5jCeSJNxfO0l/iWztPeL89O+nWYeHZSPQ+oUq6+klx9nT0TvyVp77ceK5dYj3WGfE1bv+Eh2qqPmATZqpeoQz2p1GMaULsqjaj4rcRHaUb3RKWkUPts6p5N/QH5R2k4oCDS+IM0oXfDepsVEuUFKP3T61H8fWrNFGT6/OQw0GSiZKNOI49o0MgZaHoBEr9Gv4nEZ4CfJ/EB5vOYMSX4Pj+g+DcoWEhpQyHYvErORMFAs0bwfNMr04hpeDb1eBl2GgVE1m8HD2RWyQGaTDSC3yk6DeDnkk6jiSYroU+AGT8S2SkCUx5T4G+YhZyJUB0trkMn46OZl6nD6Q8IDHZA4I59gSKmgMljcpjkd99C8swLyTdzIXmwO0VMAZPH5J5HrYkumd4x8WM20WSi8ZCkFbCStAJs1N9JWjcrSevmBMWa2pVCJfmPXY+prmM8QfXMW0Bh5m6jerAs2r/cPD35b9yhFHV6Qjx9uxOLWGw9hLNUbHN4TGX6nlIZsaNURiykWB5s24RGZJstNIeyRcNI2dihEQdMPaOIKWDyqKdiDbTniczMhMxcb6mhdmn6eq8wd8/HIhH5WCQiz05y1LLlkPZAHQqYzzhIFEDAzeB2a9zP9wEL9rYW6QQwxwAAAABJRU5ErkJggtQmQBc=",
+                "origin": [
+                    34,
+                    61
+                ]
+            }
+        },
+        {
+            "id": 1436014662,
+            "classId": 11917988,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "sevruyk.2002@mail.ru",
+            "createdAt": "2023-10-11T22:13:44.815Z",
+            "updatedAt": "2023-10-11T22:34:38.516Z",
+            "tags": [],
+            "classTitle": "Denis",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        64
+                    ],
+                    [
+                        241,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1436025243,
+            "classId": 11918192,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "sevruyk.2002@mail.ru",
+            "createdAt": "2023-10-11T22:34:38.350Z",
+            "updatedAt": "2023-10-11T22:35:30.688Z",
+            "tags": [],
+            "classTitle": "DenisKeypoints",
+            "nodes": {
+                "c33fcd59-ef18-4057-8006-a57d42618401": {
+                    "loc": [
+                        173,
+                        179
+                    ]
+                },
+                "5f88fdad-f29e-4190-820d-7165b832d41f": {
+                    "loc": [
+                        89,
+                        194
+                    ]
+                },
+                "1f25aac0-6c73-42a3-afd2-b8980947c630": {
+                    "loc": [
+                        55,
+                        188
+                    ]
+                },
+                "6a443743-a601-43d7-b403-c62ebe6b2d0b": {
+                    "loc": [
+                        102,
+                        175
+                    ]
+                },
+                "bef67a8c-265e-4948-8ff6-bf7f5049c8a5": {
+                    "loc": [
+                        146,
+                        162
+                    ]
+                },
+                "238bd38b-53df-44aa-a1ee-d6bf3a199713": {
+                    "loc": [
+                        200,
+                        152
+                    ]
+                },
+                "4debb9a3-ec4f-4450-a8af-5cc401c9b8e6": {
+                    "loc": [
+                        138,
+                        231
+                    ]
+                },
+                "abdab8cb-dafd-4820-b10f-1aa6c7b3de5b": {
+                    "loc": [
+                        121,
+                        288
+                    ]
+                },
+                "c67741de-5a62-41e1-acad-6d270e416128": {
+                    "loc": [
+                        184,
+                        272
+                    ]
+                },
+                "b4bbe256-0d41-40f5-9334-e6389248a634": {
+                    "loc": [
+                        156,
+                        293
+                    ]
+                },
+                "bb25bcb2-40d1-41eb-b569-c29a673505ae": {
+                    "loc": [
+                        146,
+                        269
+                    ]
+                },
+                "da9d12e8-ecce-4676-8927-4590830e46ec": {
+                    "loc": [
+                        58,
+                        264
+                    ]
+                },
+                "89ccc800-f782-4a6f-a582-672e8d5b642b": {
+                    "loc": [
+                        168,
+                        342
+                    ]
+                },
+                "80d06919-d018-4c8e-8df7-b77d01ab5715": {
+                    "loc": [
+                        227,
+                        238
+                    ]
+                },
+                "28ae7800-2fd6-4412-9808-2263c455fb0a": {
+                    "loc": [
+                        208,
+                        124
+                    ]
+                },
+                "67d8c5b6-9cac-44c1-a86d-35a993524937": {
+                    "loc": [
+                        190,
+                        83
+                    ]
+                },
+                "b08313a1-9074-4fa3-9dde-05cedda1d298": {
+                    "loc": [
+                        129,
+                        71
+                    ]
+                },
+                "5b5bd0c6-352c-47b4-95e6-cb393743d130": {
+                    "loc": [
+                        51,
+                        98
+                    ]
+                },
+                "1ce40669-26fb-479e-889a-373a3c63b98e": {
+                    "loc": [
+                        37,
+                        164
+                    ]
+                }
+            }
+        }
+    ]
+}
