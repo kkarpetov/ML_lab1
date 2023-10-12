@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 430,
+        "width": 350
+    },
+    "objects": [
+        {
+            "id": 1436462668,
+            "classId": 11920076,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T21:52:48.107Z",
+            "updatedAt": "2023-10-11T22:18:13.712Z",
+            "tags": [],
+            "classTitle": "kkarp",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        39
+                    ],
+                    [
+                        291,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

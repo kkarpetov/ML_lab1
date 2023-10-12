@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 445,
+        "width": 378
+    },
+    "objects": [
+        {
+            "id": 1436460688,
+            "classId": 11920045,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T21:58:45.360Z",
+            "updatedAt": "2023-10-11T22:19:29.658Z",
+            "tags": [],
+            "classTitle": "kkarp",
+            "bitmap": {
+                "data": "eJwBMAPP/IlQTkcNChoKAAAADUlIRFIAAAD4AAABVgEDAAAAfn7CYgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALYSURBVHic7dpNcvMgDAZgd7Lo0kfgKBwNH42jcASWXnjM98WJExCSXlricTqtl32mgCT8Gw0DPS4pzdUfsyOltCr8+d9TENCm2yFMcLlzWng3u6dJWtr9iOLSlAmezEaY/Ts7gc29jvAjZ2YBpvCkD19n4LPk5ImPxIM+fRWgI04CvCTd6fA0AZRJBarhSYJodIkkiK6eJOCj5iIBNLk0QGb4PEBu+DxAw3kWoAXO8jMB3OpTtkP44aE/Euh4j43OZqfB9wII4UHfC2S+6XsBneBJX/5eoO+7Bx5e4lL6sEfg88G+dPra6eklLtfntkGQM5fO/dg20AjcyL5tAAvcyb5tEJk3V8LbNgByJXzoS4Mr5YO+NvjY4anBzZE+qdvjePc/3IN6+ryFa9ztEfj8y3052dc39/TuPh3u7lT33W7f2sPJHg/2GboBPh7qC/AVuvb8dXXt+e/q2vNni8MLnANu1QGwjye7XgD9AfzqeoL1F4zNXadb4Ab4CFxNQIOrCXqBo/nVAjfkxwJ3wDVucLS/0P5Ejvb/CNwAt2/uDrjKf/7nZ/rZLzgNL3AOuNV8PtgjdgN8PNMDuH4HcP0P4P4SwP0pgPtfAPdP3+BG8Qk8v7S4lsAJPH8M4AvyAL5AD/oX7LXJDfBR9N5fKG4u77C5yeUE339CEz0OeoKRhza3knvg08E+HOtrp/f+wjl3egQeGn0U3Hf6BHxodOkE3V06AYGvnb4Af3QwCBeA2OkBuAc+6f5soOB9AT4Dj8ADcA/8EZ5wgc3ccT7ovnY66m8JmVvgRg+PPcGAF/1BzAmIvOg/Yk6Qon+JKWD8ijMF9oW7yguuE7wCR+1XofSR+lR6lcCSqwTQ9jfqZPoqAZ56GWDdnlcGGCsvA5wqLwJkuv8KZ9oXix1UT18kgG2fzJxtTswSUK++dI6zAPjmy+cCPevPCrHTZxXg+bGAKPg+gTD9PgFJzj+pflm3wpId6gAAAABJRU5ErkJgglB6jxA=",
+                "origin": [
+                    15,
+                    69
+                ]
+            }
+        }
+    ]
+}

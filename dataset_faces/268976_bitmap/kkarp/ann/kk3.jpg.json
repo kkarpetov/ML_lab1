@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 1436460661,
+            "classId": 11920045,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "kkarpetov",
+            "createdAt": "2023-10-11T22:00:04.321Z",
+            "updatedAt": "2023-10-11T22:25:07.902Z",
+            "tags": [],
+            "classTitle": "kkarp",
+            "bitmap": {
+                "data": "eJwBQAS/+4lQTkcNChoKAAAADUlIRFIAAAFEAAABgAEDAAAA712JJwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPoSURBVHic7ds9ctswEAVgeVSo5BFwFByN6HKMXAVdSl8BMylSBqmigiFiK5JIAPvzkCGGlm12mvlG0L5dUpZJHA7L8ZTSdICOU0LpiMqXxV+OCMgjLE8Xmc66NP9kCqq0V5lUOd5kVOBTuh9OlsdFKqGeFqnUPySUmrUUq8qlVJXNpVDVmBL4riVk2/pUS6aqYy2Z9QdCelIaQtLLW0LSSVUhvR6kpCBdEikDAYk4Ez1StJwJSQVPf9ATLX0tB1pGWBLZG1oSJTGSKMkysi5pZGSoJAOJLsGSbmYiimdlNaJM21MdE9P2VBfPy7KkgZVl53lZlmR46XNpeVmUNPIy5pKHRfF8i8ri+RaVneeDT0VMgyQdLLNAjSSzQK0kIyyzQEdJTrDMApVgFqjUzJQFqsgAy1VM0oCkLCZciqOUBarIVaCDLBMuHSz9XRpFBlgu0VtFTrCcYbnENG4nXbvU4BI9LJWRT0uTtpSxWSqnUVrOJFwqp1FahkmXcwd5G6ZhS+lg6Vul0WVolVaXsYM8w3ICT+IWOfeTOrwNUwepn+7pOqC7SY9dQjrJ0CaBS0iLjODp3iLPHeTUSxpEzh1kwqVrkhaSfnc5QjJ0kLFJQvCjS+hC++EldJl/AxL66ngDcngQaXaV9kHk+CASg7tL8LL0LiV4qfuUn1KV4NfR7nLYXIZPubE0m0vfRdpd5birBOGnfJPydwf5A5bfYPkFlvk3gCDnAZWTgaXNXjpexvylIH/B8jssn2H5NX8p/EFtUTkXr3n5B5blAcv53cnpQeQZ/hG5r+z0s9huLcODSF/LZ1j+ZKXBVne7SvjORA85N8kBklMHeYZlRO/bNcjQQfomif3WdrB8vXOG/S8IlnMH+e+Bgm1lvMgRkOEiLSD9Ab0V6S5yAOQFIiNyfUYBCHRqlUBMZ1jGq7SqDLD0V2lgOajSwfIK9SbNsLw/iKeexxGWtzj1xt9C0s8kB8s71EZk/h9pZbl6/NPI8gzLuMhBlgGWS5zaiBxQuX6UWB6R9ePJ8ohEWPqVlEfEreUoyTUUm5Q/lj4IMn/UXQo0ZlIKNCtdjCkrXYqp3DcxsrLcjmBZWW5x4GUopEELEqIvJRsovmUE37BSFsQH6itpGFnBhq1CzNwR+6SYmOqCuOIdIS0Fqa1XdPHkvjOy+EhJsnhPSbJ4CpIzQhZExsRseRxrGWhJxERDIiZuv2NdfGRkXZLnZFUSB6sZYRevSmIXL0uSdprm0gnSrCHTc+KDiptnsxGNkswGz0syK0mE6y4pe3xXxStbnFcfNMhytbxT5H19fX/1EVz8cBs9sZW3A33Lw6Uq+i3/AhGLLfFD8EqxAAAAAElFTkSuQmCCETbx1w==",
+                "origin": [
+                    469,
+                    144
+                ]
+            }
+        }
+    ]
+}
